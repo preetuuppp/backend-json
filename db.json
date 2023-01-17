@@ -1,9 +1,52 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "data": [
+    {
+      "name": "Featured brands",
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/6dbc627e-901f-47c0-9915-02a1536d063f.png"
+    },
+    {
+      "name": "Full body health checkups",
+      "image": ""
+    },
+    {
+      "name": "Pathology Tests | Up to 70% off",
+      "image": ""
+    },
+    {
+      "name": "Popular categories",
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/488e9116-bb49-4842-a1e6-e9cd02765fec.png"
+    },
+    {
+      "name": "Popular Combo Deals",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/38b86c6a33f744afac80ed36d4bb87ba.jpg"
+    },
+    {
+      "name": "Collagen | supplement of the week",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/jegwstzu6zeoajpujk3u.jpg"
+    },
+    {
+      "name": "Radiology Tests | Up to 60% off",
+      "image": ""
+    },
+    {
+      "name": "In the spotlight",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/l1icqqhybnh7l7ffnolg.png"
+    },
+    {
+      "name": "Personal care",
+      "image": ""
+    },
+    {
+      "name": "Trending now",
+      "image": ""
+    },
+    {
+      "name": "Breakfast cereals",
+      "image": ""
+    },
+    {
+      "name": "Healthy Republic Sale",
+      "image": ""
+    }
+  ]
 }
