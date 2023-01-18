@@ -4,41 +4,441 @@
     {
         "image_url":"https://onemg.gumlet.io/image/upload/w_150,h_150,c_fit,a_ignore,q_auto,f_auto/v1645075700/kx90tgnajdjxrltg0w8q.png" ,
        "name" : "Dabur Products",
-        "link":"https://www.1mg.com/categories/featured/top-brands/dabur-products-771"
+       "link":"https://www.1mg.com/categories/featured/top-brands/dabur-products-771"
     },
     {
         "image_url":"https://onemg.gumlet.io/image/upload/w_150,h_150,c_fit,a_ignore,q_auto,f_auto/v1645336011/x1fsuvkfmp5gbidg2ztd.png",
        "name":"Himalaya Products",
-        "link":"https://www.1mg.com/categories/top-brands/himalaya-wellness-healthcare-products-241"
+       "link":"https://www.1mg.com/categories/top-brands/himalaya-wellness-healthcare-products-241"
     },
     {
         "image_url":"https://onemg.gumlet.io/image/upload/w_150,h_150,c_fit,a_ignore,q_auto,f_auto/v1645502869/xodvnn77yblipffhaeg8.jpg", 
        "name":"Pediasure",
-        "link":"https://www.1mg.com/categories/fitness-supplements/protein-supplements/pediasure-436"
+       "link":"https://www.1mg.com/categories/fitness-supplements/protein-supplements/pediasure-436"
     },
     {
         "image_url":"https://onemg.gumlet.io/image/upload/w_150,h_150,c_fit,a_ignore,q_auto,f_auto/v1645502885/jsr89gywaswejlw0tzb8.png",
        "name":"Cenvitan Multivitamins",
-        "link":"https://www.1mg.com/categories/featured/top-brands/healthvit-cenvitan-385"
+       "link":"https://www.1mg.com/categories/featured/top-brands/healthvit-cenvitan-385"
     },
     {
         "image_url":"https://onemg.gumlet.io/image/upload/w_150,h_150,c_fit,a_ignore,q_auto,f_auto/v1645502901/npwnkuyn3jcnoouaqdto.png",
        "name":"Baidyanath",
-        "link":"https://www.1mg.com/categories/ayurveda/top-brands/baidyanath-products-417"
+       "link":"https://www.1mg.com/categories/ayurveda/top-brands/baidyanath-products-417"
     },
     {
         "image_url":"https://onemg.gumlet.io/image/upload/w_150,h_150,c_fit,a_ignore,q_auto,f_auto/v1645420128/rfvnpy3qt4tnacj5ecvk.jpg",
        "name":"Accu-Chek",
-        "link":"https://www.1mg.com/categories/diabetes/accu-chek-273"
+       "link":"https://www.1mg.com/categories/diabetes/accu-chek-273"
     },
     {
         "image_url":"https://onemg.gumlet.io/image/upload/w_150,h_150,c_fit,a_ignore,q_auto,f_auto/v1645502918/jbzzfzq1hglq5nkllrjo.png",
        "name":"Contour",
-        "link":"https://www.1mg.com/categories/featured/top-brands/contour-268"
+       "link":"https://www.1mg.com/categories/featured/top-brands/contour-268"
     }
-]
+],
+"grandSavings":[
+  {
+      "image_url":"https://onemg.gumlet.io/image/upload/w_150,h_150,c_fit,a_ignore,q_auto,f_auto/v1645503918/o2g7kme57zu6ob9nw6vm.png",
+     "name":"Zandu",
+     "link":"https://www.1mg.com/categories/ayurveda/top-brands/zandu-285"
+  },
+  {
+      "image_url":"https://onemg.gumlet.io/image/upload/w_150,h_150,c_fit,a_ignore,q_auto,f_auto/v1645503938/ozoyjywk9ah5yagoto8j.png",
+     "name":"Sri Sri Tattva",
+     "link":"https://www.1mg.com/categories/ayurveda/top-brands/sri-sri-tattva-536"
+  },
+  {
+      "image_url":"https://onemg.gumlet.io/image/upload/w_150,h_150,c_fit,a_ignore,q_auto,f_auto/v1645503952/osifrls0kgxwy2d49myw.png",
+     "name":"Dettol",
+     "link":"https://www.1mg.com/categories/featured/top-brands/dettol-288"
+  },
+  {
+      "image_url":"https://onemg.gumlet.io/image/upload/w_150,h_150,c_fit,a_ignore,q_auto,f_auto/v1645503965/zxcxrku0ylf2guywxprx.jpg" ,
+     "name":"Colgate",
+     "link":"https://www.1mg.com/categories/featured/colgate-828"
+  },
+  {
+      "image_url":"https://onemg.gumlet.io/image/upload/w_150,h_150,c_fit,a_ignore,q_auto,f_auto/v1645503984/ubnrb8jhzifkgutexd7g.png",
+     "name":"Fast &amp; Up",
+     "link":"https://www.1mg.com/categories/featured/top-brands/fast-up-791"
+  },
+  {
+      "image_url":"https://onemg.gumlet.io/image/upload/w_150,h_150,c_fit,a_ignore,q_auto,f_auto/v1645504001/qmjmxjryl4vdq2kbgw8o.jpg" ,
+     "name":"Durex",
+     "link":"https://www.1mg.com/categories/personal-care/sexual-wellness/durex-326"
+  },
+  {
+      "image_url":"https://onemg.gumlet.io/image/upload/w_150,h_150,c_fit,a_ignore,q_auto,f_auto/v1645504020/dikcpbbpucra4ota86j6.jpg",
+     "name":"Hansaplast",
+     "link":"https://www.1mg.com/categories/featured/top-brands/hansaplast-509"
+  }
+],
   
+ "greenSupplements":
+[
+    {
+        "image_url":"https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1615293847/ceb8xikygjrjocx1t0vl.jpg" ,
+        "name":"Wellbeing Nutrition Daily Greens Effervescent Tablet (15 Each)",
+        "link":"https://www.1mg.com/otc/wellbeing-nutrition-daily-greens-effervescent-tablet-15-each-otc630046",
+        "desc":"combo pack of two bottles",
+        "mrp":1180,
+        "":"34%",
+        "price":779   
+    },
+    {
+        "image_url":"https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1644689243/ujunuoey594g5cv8oqhv.jpg",
+        "name":"Carbamide Forte  Certified Organic Spirulina 2000mg Vegetarian Tablet",
+        "link":"https://www.1mg.com/otc/carbamide-forte-certified-organic-spirulina-2000mg-vegetarian-tablet-otc543416",
+        "desc":"bottle of 180 tablets",
+        "mrp":650,
+        "":"31%",
+        "price":449
+    },
+    {
+        "image_url":"https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1610522902/bhbkcdrdpdyuyivcxwpb.jpg" ,
+        "name":"Wellbeing Nutrition Daily Greens Effervescent Tablet (15 Each)",
+        "link":"https://www.1mg.com/otc/wellbeing-nutrition-daily-greens-effervescent-tablet-15-each-otc630045",
+        "desc":"box of 1 bottle",
+        "mrp":1900,
+        "":"20%",
+        "price":1584
+    },
+    {
+        "image_url":"https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1612855235/yxj32q8bapq6r5qnoyuh.jpg" ,
+        "name":"Chicnutrix Skin Superfood Advanced Plant Based Formula Blueberry &amp; Lemon",
+        "link":"https://www.1mg.com/otc/chicnutrix-skin-superfood-advanced-plant-based-formula-blueberry-lemon-otc635985",
+        "desc":"Tin of 150gm powder",
+        "mrp":639,
+        "":"54%",
+        "price":286
+    },
+    {
+        "image_url":"https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1600177714/cropped/e39gxebocqabjyfhsks9.jpg" ,
+        "name":"Inlife Green Tea Extract 500mg Capsule",
+        "link":"https://www.1mg.com/otc/inlife-green-tea-extract-500mg-capsule-otc344419",
+        "desc":"bottle of 30 tablets",
+        "mrp":792,
+        "":"2%",
+        "price":771
+    },
+    {
+        "image_url":"https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1613631319/h4u0fi0gecoyfauwia9m.jpg" ,
+        "name":"OptiBMI Tablet",
+        "link":"https://www.1mg.com/otc/optibmi-tablet-otc445719",
+        "desc":" bottle of 120 tablets",
+        "mrp":345,
+        "":"14%",
+        "price":295
+    },
+    {
+        "image_url":"https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1600227617/cropped/ah73cjz66ar9tyaturpr.jpg" ,
+        "name":"Ayurvedic Life Moringa Tablet",
+        "link":"https://www.1mg.com/otc/ayurvedic-life-moringa-tablet-otc387312",
+        "desc":" bottle of 120 tablets",
+        "mrp":2360,
+        "off":"35%",
+        "price":1534
+    }
+],
+ "labarr":[
+  {
+      "name": "Comprehensive Gold Full Body Checkup",  
+      "price":1599,
+      "mrp":  2798,
+      "off": "42% ",
+      "image1_url":"https://res.cloudinary.com/du8msdgbj/image/upload/v1590653294/safe_bjisiz.svg",  
+      "image_url":"data:image/png;base64,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",
+      "image2_url":"rating.png"
+       
+  },
+  {
+      "name": " Women Wellness Advanced Package",   
+      "price":1199,
+      "mrp":  2198,
+      "off": "45% ",
+      "image1_url":"https://res.cloudinary.com/du8msdgbj/image/upload/v1590653294/safe_bjisiz.svg",   
+      "image_url":"data:image/png;base64,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",
+      "image2_url":"rating.png"
+     
+  },
+  {
+      "name": "Comprehensive Platinum Full Body Checkup",   
+      "price":1999,
+      "mrp":  3398,
+      "off": "41% ",
+      "image1_url":"https://res.cloudinary.com/du8msdgbj/image/upload/v1590653294/safe_bjisiz.svg",   
+      "image_url":"data:image/png;base64,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",
+      "image2_url":"rating.png"
+     
+  },
+  {
+      "name": "Good Health Silver Package",   
+      "price":1350,
+      "mrp":  2398,
+      "off": "43% ",
+      "image1_url":"https://res.cloudinary.com/du8msdgbj/image/upload/v1590653294/safe_bjisiz.svg",   
+      "image_url":"data:image/png;base64,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",
+      "image2_url":"rating.png"
+     
+  }
+  
+  
+  ],
+  
+   "popularBrand":[
+    {
+        "image_url":"https://onemg.gumlet.io/image/upload/w_150,h_150,c_fit,a_ignore,q_auto,f_auto/v1641187637/lcfd1eufwbtituwyswpi.jpg",
+        "name":"Covid Essentials",
+        "link":"https://www.1mg.com/categories/coronavirus-prevention-925"
+    },
+    {
+        "image_url":"https://onemg.gumlet.io/image/upload/w_150,h_150,c_fit,a_ignore,q_auto,f_auto/v1642586423/uq1gwxslqqrxxwv6zi6j.jpg",
+        "name":"Nutritional Drinks",
+        "link":"https://www.1mg.com/categories/fitness-supplements/family-nutrition-196"
+    },
+    {
+        "image_url":"https://onemg.gumlet.io/image/upload/w_150,h_150,c_fit,a_ignore,q_auto,f_auto/v1624525304/kfyx5kvvn2ai5fwswhsa.png",
+        "name":"Ayurveda",
+        "link":"https://www.1mg.com/categories/ayurveda-45"
+    },
+    {
+        "image_url":"https://onemg.gumlet.io/image/upload/w_150,h_150,c_fit,a_ignore,q_auto,f_auto/v1624525284/cabpuknnlyyzgqfnb4x5.png",
+        "name":"Vitamins &amp; Supplements",
+        "link":"https://www.1mg.com/categories/fitness-supplements/vitamins-minerals-9"
+    },
+    {
+        "image_url":"https://onemg.gumlet.io/image/upload/w_150,h_150,c_fit,a_ignore,q_auto,f_auto/v1624525168/p1blaka183nc1zlil8tq.png",
+        "name":"Sexual Wellness",
+        "link":"https://www.1mg.com/categories/personal-care/sexual-wellness-22"
+    },
+    {
+        "image_url":"https://onemg.gumlet.io/image/upload/w_150,h_150,c_fit,a_ignore,q_auto,f_auto/v1624525147/qjfdkz5njmk9n7vvrbb3.png",
+        "name":"Healthcare Devices",
+        "link":"https://www.1mg.com/categories/medical-devices-12"
+    },
+    {
+        "image_url":"https://onemg.gumlet.io/image/upload/w_150,h_150,c_fit,a_ignore,q_auto,f_auto/v1624525320/j7ruar88gacbzksuadjn.png",
+        "name":"Homeopathy",
+        "link":"https://www.1mg.com/categories/homeopathy-57"
+    }
+],
+"Muscleblaze" : [
+  {
+    "image_url":
+      "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1600202758/cropped/n4ucau55t2b6uh7vxcbz.png",
+    "name": "MuscleBlaze Whey Gold Whey Protein Isolate Only Powder Rich Milk Chocolate",
+    "link": "https://www.1mg.com/otc/muscleblaze-whey-gold-whey-protein-isolate-only-powder-rich-milk-chocolate-otc353248",
+    "desc": "jar of 1 kg",
+    "mrp": 7149,
+    "off": "17%",
+    "price": 5899
+  },
+  {
+    "image_url":
+      "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1600155152/cropped/k6nj6qz8wvdv0u6pgztt.png",
+    "name": "MuscleBlaze MB Mass Gainer XXL Chocolate",
+    "link": "https://www.1mg.com/otc/muscleblaze-mb-mass-gainer-xxl-chocolate-otc328743",
+    "desc": "jar of 1 kg",
+    "mrp": 1429,
+    "off": "23%",
+    "price": 1099
+  },
+  {
+    "image_url":
+      "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1600159650/cropped/mjjil9vgcysuadxxwbqy.png",
+    "name": "MuscleBlaze Whey Energy with Digezyme Whey &amp; Multivitamins Blend Powder Chocolate",
+    "link": "https://www.1mg.com/otc/muscleblaze-whey-energy-with-digezyme-whey-multivitamins-blend-powder-chocolate-otc328751",
+    "desc": "jar of 1 kg",
+    "mrp": 2299,
+    "off": "21%",
+    "price": 1799
+  },
+  {
+    "image_url":
+      "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1600202766/cropped/rvpthfcm8tnlpr4s3hmd.png",
+    "name": "MuscleBlaze Whey Gold Whey Protein Isolate Only Powder Rich Milk Chocolate",
+    "link": "https://www.1mg.com/otc/muscleblaze-whey-gold-whey-protein-isolate-only-powder-rich-milk-chocolate-otc353245",
+    "desc": "jar of 1 kg",
+    "mrp": 3849,
+    "off": "22%",
+    "price": 2999
+  },
+  {
+    "image_url":
+      "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1640260929/vi1egyox0b02bvn5k1ay.jpg",
+    "name": "MuscleBlaze MB Super Gainer XXL Chocolate",
+    "link": "https://www.1mg.com/otc/muscleblaze-mb-super-gainer-xxl-chocolate-otc353194",
+    "desc": "jar of 1 kg",
+    "mrp": 2749,
+    "off": "34%",
+    "price": 1799
+  },
 
-   
+  {
+    "image_url":
+      "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1600610775/cropped/js7dckybnnewex421qfw.png",
+    "name": "MuscleBlaze MB Beginner's Whey Protein Concentrate Powder Chocolate",
+    "link": "https://www.1mg.com/otc/muscleblaze-mb-beginner-s-whey-protein-concentrate-powder-chocolate-otc484468",
+    "desc": "jar of 1 kg",
+    "mrp": 1999,
+    "off": "40%",
+    "price": 1199
+  },
+  {
+    "image_url":
+      "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1600611609/cropped/rknx3iszt8wwkpttv3lx.png",
+    "name": "MuscleBlaze MB Super Gainer XXL Chocolate",
+    "link": "https://www.1mg.com/otc/muscleblaze-mb-super-gainer-xxl-chocolate-otc484764",
+    "desc": "jar of 1 kg",
+    "mrp": 5839,
+    "off": "36%",
+    "price": 3699
+  },
+  {
+    "image_url":
+      "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1611904490/wvtdk81xop6sp2v3zzpu.jpg",
+    "name": "MuscleBlaze Fish Oil Gold Soft Gelatin Capsule",
+    "link": "",
+    "desc": "bottle of 60 soft gelatin capsules",
+    "mrp": 999,
+    "off": "23%",
+    "price": 769
+  },
+  {
+    "image_url":
+      "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625168007/tgjhngjc3cdn250aeubx.jpg",
+    "name": "MuscleBlaze Phirse Zidd Kar Shaker White",
+    "link": "",
+    "desc": "box of 650 shaker",
+    "mrp": 449,
+    "off": "60%",
+    "price": 199
+  },
+  {
+    "image_url":
+      "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1618577735/zn3k13in9bgnjiqtsxz8.jpg",
+    "name": "MuscleBlaze MB Protein Peanut Butter",
+    "link": "",
+    "desc": "jar of 750gm butter",
+    "mrp": 499,
+    "off": "10%",
+    "price": 449
+  },
+  {
+    "image_url":
+      "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1611582635/dbb7zdk6lebntc7o9hcf.jpg",
+    "name": "MuscleBlaze Tribulus Gokshura 1000mg Tablet",
+    "link": "",
+    "desc": "bottle of 60 tablets",
+    "mrp": 339,
+    "off": "25%",
+    "price": 299
+  },
+  {
+    "image_url":
+      "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1603285643/tkbr3scqljabo5g92kcs.jpg",
+    "name": "MuscleBlaze Unflavoured MB Fuel One Whey Protein Immunity+",
+    "link": "",
+    "desc": "packet of 1kg powder",
+    "mrp": 1899,
+    "off": "5%",
+    "price": 1799
+  },
+  {
+    "image_url":
+      "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1611582768/ube3uqukwv30fa3svabm.jpg",
+    "name": "MuscleBlaze Biozyme Whey Isolate Powder Ice Cream Chocolate",
+    "link": "",
+    "desc": "jar of 2kg powder",
+    "mrp": 4949,
+    "off": "11%",
+    "price": 4399
+  },
+  {
+    "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1641826437/zsx1itotu8qtxofezmad.jpg",
+    "name": "MuscleBlaze MB Protein Peanut Butter Dark Chocolate",
+    "link": "",
+    "desc": "jar of 2.5kg butter",
+    "mrp": 1500,
+    "off": "5%",
+    "price": 1420
+  },
+  {
+    "image_url":
+      "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1602853967/jtzhgvyvguichv2i8uyv.jpg",
+    "name": "MuscleBlaze Liquid L-Carnitine Lemon Lime",
+    "link": "",
+    "desc": "bottle of 450ml liquid",
+    "mrp": 1079,
+    "off": "26%",
+    "price": 799
+  }
+],
+"tataMg":[
+  {
+      "image_url":"https://onemg.gumlet.io/image/upload/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/v1642507775/gmkrpf1imjj9djwvq4gq.jpg" ,
+      "name":"Tata 1mg Multivitamin Supreme, Zinc, Calcium and Vitamin D Immunity Booster Capsule",
+      "link":"https://www.1mg.com/otc/tata-1mg-multivitamin-supreme-zinc-calcium-and-vitamin-d-immunity-booster-capsule-otc503409",
+      "desc":" bottle of 60 capsules",
+      "mrp":995,
+      "off":"55%",
+      "price":448
+  },
+  {
+      "image_url":"https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1637324194/gc3u9gfc331wtsipnljl.jpg" ,
+      "name":"Tata 1mg Calcium + Vitamin D3, Zinc, Magnesium and Alfalfa Tablets for Joint Health &amp; Immunity" ,
+      "link":"https://www.1mg.com/otc/tata-1mg-calcium-vitamin-d3-zinc-magnesium-and-alfalfa-tablets-for-joint-health-immunity-otc536094",
+      "desc":" bottle of 60 capsules",
+      "mrp":595,
+      "off":"60%",
+      "price":238
+  },
+  {
+      "image_url":"https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1643307171/ffel0eytbg8gvbjxlykh.jpg" ,
+      "name":"Tata 1mg BIS Approved FFP2 N95 Mask - Head Loop 10 Mask",
+      "link":"https://www.1mg.com/otc/tata-1mg-bis-approved-ffp2-n95-mask-head-loop-10-mask-otc701780",
+      "desc":"box of 10 masks",
+      "mrp":900,
+      "off":"50%",
+      "price":450
+  },
+  {
+      "image_url":"https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1645272788/qh1au45w8u7cfvf3lg3i.jpg",
+      "name":"Tata 1mg Women's Multivitamin, Zinc, Vitamin C, Calcium, Vitamin D, and Iron  Immunity Booster Tablet",
+      "link":"https://www.1mg.com/otc/tata-1mg-women-s-multivitamin-zinc-vitamin-c-calcium-vitamin-d-and-iron-immunity-booster-tablet-otc555721",
+      "desc":" bottle of 60 capsules",
+      "mrp":995,
+      "off":"60%",
+      "price":398
+  },
+  {
+      "image_url":"https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1642507827/fwram2p7rbkoigjg6zas.jpg",
+      "name":"Tata 1mg Salmon Omega 3 Fish Oil Capsule",
+      "link":"https://www.1mg.com/otc/tata-1mg-salmon-omega-3-fish-oil-capsule-otc503411",
+      "desc":" bottle of 60 capsules",
+      "mrp":400,
+      "off":"51%",
+      "price":196
+  },
+  {
+      "image_url":"https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1638444070/nwhioxrxmwjkaxitryag.jpg" ,
+      "name":"Tata 1mg BIS Approved FFP2 N95 Mask for Kids 5 Mask",
+      "link":"https://www.1mg.com/otc/tata-1mg-bis-approved-ffp2-n95-mask-for-kids-5-mask-otc692293",
+      "desc":"box of 5 masks",
+      "mrp":995,
+      "off":"70%",
+      "price":295
+  },
+  {
+      "image_url":"https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631894537/w9eyedqdlnlntuc0zl7d.jpg",
+      "name":"1mg High Fiber with Pre- &amp; Probiotics with Inulin, Guar gum, &amp; Resistant Maltodextrin Unflavoured Unflavoured with Resistant Maltodextrin, Inulin and Guar Gum",
+      "link":"https://www.1mg.com/otc/1mg-high-fiber-with-pre-probiotics-with-inulin-guar-gum-resistant-maltodextrin-unflavoured-unflavoured-with-resistant-maltodextrin-inulin-and-guar-gum-otc640226",
+      "desc":"jar of 200gm powder",
+      "mrp":595,
+      "off":"60%",
+      "price":238
+  }
+]
 
 }
