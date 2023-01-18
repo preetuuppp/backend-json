@@ -1,52 +1,44 @@
 {
-  "data": [
+   "featureBrand" : [
+
     {
-      "name": "Featured brands",
-      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/6dbc627e-901f-47c0-9915-02a1536d063f.png"
+        "image_url":"https://onemg.gumlet.io/image/upload/w_150,h_150,c_fit,a_ignore,q_auto,f_auto/v1645075700/kx90tgnajdjxrltg0w8q.png" ,
+       "name" : "Dabur Products",
+        "link":"https://www.1mg.com/categories/featured/top-brands/dabur-products-771"
     },
     {
-      "name": "Full body health checkups",
-      "image": ""
+        "image_url":"https://onemg.gumlet.io/image/upload/w_150,h_150,c_fit,a_ignore,q_auto,f_auto/v1645336011/x1fsuvkfmp5gbidg2ztd.png",
+       "name":"Himalaya Products",
+        "link":"https://www.1mg.com/categories/top-brands/himalaya-wellness-healthcare-products-241"
     },
     {
-      "name": "Pathology Tests | Up to 70% off",
-      "image": ""
+        "image_url":"https://onemg.gumlet.io/image/upload/w_150,h_150,c_fit,a_ignore,q_auto,f_auto/v1645502869/xodvnn77yblipffhaeg8.jpg", 
+       "name":"Pediasure",
+        "link":"https://www.1mg.com/categories/fitness-supplements/protein-supplements/pediasure-436"
     },
     {
-      "name": "Popular categories",
-      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/488e9116-bb49-4842-a1e6-e9cd02765fec.png"
+        "image_url":"https://onemg.gumlet.io/image/upload/w_150,h_150,c_fit,a_ignore,q_auto,f_auto/v1645502885/jsr89gywaswejlw0tzb8.png",
+       "name":"Cenvitan Multivitamins",
+        "link":"https://www.1mg.com/categories/featured/top-brands/healthvit-cenvitan-385"
     },
     {
-      "name": "Popular Combo Deals",
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/38b86c6a33f744afac80ed36d4bb87ba.jpg"
+        "image_url":"https://onemg.gumlet.io/image/upload/w_150,h_150,c_fit,a_ignore,q_auto,f_auto/v1645502901/npwnkuyn3jcnoouaqdto.png",
+       "name":"Baidyanath",
+        "link":"https://www.1mg.com/categories/ayurveda/top-brands/baidyanath-products-417"
     },
     {
-      "name": "Collagen | supplement of the week",
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/jegwstzu6zeoajpujk3u.jpg"
+        "image_url":"https://onemg.gumlet.io/image/upload/w_150,h_150,c_fit,a_ignore,q_auto,f_auto/v1645420128/rfvnpy3qt4tnacj5ecvk.jpg",
+       "name":"Accu-Chek",
+        "link":"https://www.1mg.com/categories/diabetes/accu-chek-273"
     },
     {
-      "name": "Radiology Tests | Up to 60% off",
-      "image": ""
-    },
-    {
-      "name": "In the spotlight",
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/l1icqqhybnh7l7ffnolg.png"
-    },
-    {
-      "name": "Personal care",
-      "image": ""
-    },
-    {
-      "name": "Trending now",
-      "image": ""
-    },
-    {
-      "name": "Breakfast cereals",
-      "image": ""
-    },
-    {
-      "name": "Healthy Republic Sale",
-      "image": ""
+        "image_url":"https://onemg.gumlet.io/image/upload/w_150,h_150,c_fit,a_ignore,q_auto,f_auto/v1645502918/jbzzfzq1hglq5nkllrjo.png",
+       "name":"Contour",
+        "link":"https://www.1mg.com/categories/featured/top-brands/contour-268"
     }
-  ]
+]
+  
+
+   
+
 }
