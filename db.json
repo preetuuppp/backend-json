@@ -1280,7 +1280,7 @@
       "mrp": 995,
       "off": "55%",
       "price": 448,
-      "id": 1
+      "id": 61
     },
     {
       "image": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1637324194/gc3u9gfc331wtsipnljl.jpg",
@@ -1290,7 +1290,7 @@
       "mrp": 595,
       "off": "60%",
       "price": 238,
-      "id": 2
+      "id": 62
     },
     {
       "image": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1643307171/ffel0eytbg8gvbjxlykh.jpg",
@@ -1300,7 +1300,7 @@
       "mrp": 900,
       "off": "50%",
       "price": 450,
-      "id": 3
+      "id": 63
     },
     {
       "image": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1645272788/qh1au45w8u7cfvf3lg3i.jpg",
@@ -1310,7 +1310,7 @@
       "mrp": 995,
       "off": "60%",
       "price": 398,
-      "id": 4
+      "id": 64
     },
     {
       "image": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1642507827/fwram2p7rbkoigjg6zas.jpg",
@@ -1320,7 +1320,7 @@
       "mrp": 400,
       "off": "51%",
       "price": 196,
-      "id": 5
+      "id": 65
     },
     {
       "image": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1638444070/nwhioxrxmwjkaxitryag.jpg",
@@ -1330,7 +1330,7 @@
       "mrp": 995,
       "off": "70%",
       "price": 295,
-      "id": 6
+      "id": 66
     },
     {
       "image": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1631894537/w9eyedqdlnlntuc0zl7d.jpg",
@@ -1340,7 +1340,7 @@
       "mrp": 595,
       "off": "60%",
       "price": 238,
-      "id": 7
+      "id": 67
     }
   ],
   "winterCare":[
@@ -1887,147 +1887,147 @@
   ],
   "dabar":[
   {
-    "id": 1,
+    "id": 68,
     "image": "https://ayurvedamegastore.com/image/cache/catalog/Dabur/dabur-abhrakbasma-400x475.jpg",
     "discount": "3% off",
     "name": "Dabur Abhrak Bhasma",
     "price": "Rs.114"
   },
   {
-    "id": 2,
+    "id": 69,
     "image": "https://ayurvedamegastore.com/image/cache/catalog/Dabur/dabur-abhrak-bhasma-400x475.jpg",
     "discount": "3% off",
     "name": "Dabur Abhrak Bhasma Sahastraputi",
     "price": "Rs.73"
   },
   {
-    "id": 3,
+    "id": 70,
     "image": "https://ayurvedamegastore.com/image/cache/catalog/Dabur/dabur-ablari-400x475.jpg",
     "discount": "3% off",
     "name": "Dabur Ablari",
     "price": "Rs.155"
   },
   {
-    "id": 4,
+    "id": 71,
     "image": "https://ayurvedamegastore.com/image/cache/catalog/activeantacid-400x475.jpg",
     "discount": "3% off",
     "name": "Dabur Active Antacid",
     "price": "Rs.128"
   },
   {
-    "id": 5,
+    "id": 72,
     "image": "https://ayurvedamegastore.com/image/cache/catalog/Dabur/dabur-agastya-haritak-avaleha-400x475.jpg",
     "discount": "3% off",
     "name": "Dabur Agastya Haritak Avaleha",
     "price": "Rs.124"
   },
   {
-    "id": 6,
+    "id": 73,
     "image": "https://ayurvedamegastore.com/image/cache/catalog/Dabur/dabur-agnikumar-ras-400x475.png",
     "discount": "3% off",
     "name": "Dabur Agnikumar Ras",
     "price": "Rs.44"
   },
   {
-    "id": 7,
+    "id": 74,
     "image": "https://ayurvedamegastore.com/image/cache/catalog/Dabur-images/agnitundi-vati-400x475.jpg",
     "discount": "3% off",
     "name": "Dabur Agnitundi Vati",
     "price": "Rs.101"
   },
   {
-    "id": 8,
+    "id": 75,
     "image": "https://ayurvedamegastore.com/image/cache/catalog/Dabur/dabur-logo-400x475.jpg",
     "discount": "",
     "name": "Dabur Allerkil Tablet",
     "price": "Rs.23"
   },
   {
-    "id": 9,
+    "id": 76,
     "image": "https://ayurvedamegastore.com/image/cache/catalog/Dabur/dabur-amarsundari-gutika-400x475.png",
     "discount": "3% off",
     "name": "Dabur Amarsundari Gutika",
     "price": "Rs.52"
   },
   {
-    "id": 10,
+    "id": 77,
     "image": "https://ayurvedamegastore.com/image/cache/catalog/Dabur-images/dabur_amla_pittantak_lauh-400x475.jpg",
     "discount": "4% off",
     "name": "Dabur Amla Pittantak Lauh",
     "price": "Rs.113"
   },
   {
-    "id": 11,
+    "id": 78,
     "image": "https://ayurvedamegastore.com/image/cache/catalog/Dabur/dabur-amritadi-guggulu-400x475.jpg",
     "discount": "3% off",
     "name": "Dabur Amritadi Guggulu",
     "price": "Rs.109"
   },
   {
-    "id": 12,
+    "id": 79,
     "image": "https://ayurvedamegastore.com/image/cache/catalog/Dabur/Dabur-Amvatari-Ras-400x475.jpg",
     "discount": "3% off",
     "name": "Dabur Amvatari Ras",
     "price": "Rs.70"
   },
   {
-    "id": 13,
+    "id": 80,
     "image": "https://ayurvedamegastore.com/image/cache/catalog/Dabur/anandbhairav-400x475.jpg",
     "discount": "3% off",
     "name": "Dabur Anand Bhairava Ras Jwar",
     "price": "Rs.50"
   },
   {
-    "id": 14,
+    "id": 81,
     "image": "https://ayurvedamegastore.com/image/cache/catalog/Dabur/dabur-arogyavardhini-gutika-400x475.gif",
     "discount": "",
     "name": "Dabur Arogyavardhini Gutika",
     "price": "Rs.153"
   },
   {
-    "id": 15,
+    "id": 82,
     "image": "https://ayurvedamegastore.com/image/cache/catalog/Dabur/dabur-arshkuthar-400x475.png",
     "discount": "3% off",
     "name": "Dabur Arsh Kuthar Ras",
     "price": "Rs.97"
   },
   {
-    "id": 16,
+    "id": 83,
     "image": "https://ayurvedamegastore.com/image/cache/catalog/ashwagandhachurna-400x475.jpg",
     "discount": "",
     "name": "Dabur Ashwagandha Churna",
     "price": "Rs.90"
   },
   {
-    "id": 17,
+    "id": 84,
     "image": "https://ayurvedamegastore.com/image/cache/catalog/Dabur/57-aswagandha-leye-400x475.jpg",
     "discount": "3% off",
     "name": "Dabur Ashwagandhadi Lehya",
     "price": "Rs.223"
   },
   {
-    "id": 18,
+    "id": 85,
     "image": "https://ayurvedamegastore.com/image/cache/catalog/Dabur/dabur-avipattikar-400x475.jpg",
     "discount": "3% off",
     "name": "Dabur Avipattikar Churna",
     "price": "Rs.165"
   },
   {
-    "id": 19,
+    "id": 86,
     "image": "https://ayurvedamegastore.com/image/cache/catalog/Dabur/dabur-avipattikar-tablets-400x475.jpg",
     "discount": "3% off",
     "name": "Dabur Avipattikar Tablet",
     "price": "Rs.128"
   },
   {
-    "id": 20,
+    "id": 87,
     "image": "https://ayurvedamegastore.com/image/cache/catalog/daburbadamtail-400x475.jpg",
     "discount": "1% off",
     "name": "Dabur Badam Tail",
     "price": "Rs.193"
   },
   {
-    "id": 21,
+    "id": 88,
     "image": "https://ayurvedamegastore.com/image/cache/catalog/Dabur/Dabur-400x475.jpg",
     "discount": "",
     "name": "Dabur Balrogantak Ras Bal Ras",
